@@ -1,0 +1,137 @@
+	
+.container
+{
+	background:green;
+	width:90%;
+	height:auto;
+	margin:20px auto;
+	padding:center;	
+}
+.header
+{
+background:purple;
+width:100%;
+height:auto;
+float:left;
+position: relative;
+border-bottom-left-radius: 50% 20%;
+border-bottom-right-radius: 50% 20%;
+}
+
+.nav{
+	height:auto;
+	width:100%;
+	float:left;
+	text-align:center;
+    overflow: hidden;
+    background-color:gray;
+	font-family: Arial;
+}
+
+.nav a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav a.active {
+    background-color: #4CAF50;
+color: white;}
+.nav a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.main
+{
+	height:auto;
+	width:100%;
+	float:left;
+	text-align:center;
+	background:#aaa;
+}
+
+.footer
+{
+	height:auto;
+	width:100%;
+	float:left;
+	background-color:skyblue;
+	text-align:center;
+}
+
+.login2
+{
+	margin:10px;
+	background-color:#669966;
+	width:45%;
+	height:auto;
+	float:center;
+}
+.login1
+{
+	margin:10px;
+	background-color:#669966;
+	width:45%;
+	height:auto;
+	float:right;
+}
+.form1
+{
+	margin:156px;
+	background-color:#669966;
+	width:45%;
+	height:auto;
+	float:right;
+}
+.formb
+{
+	margin:10px;
+	background-color:#d2b48c;
+	width:45%;
+	height:auto;
+	float:left;
+}
+.forma
+{
+	margin:10px;
+	background-color:#d2b48c;
+	width:45%;
+	height:auto;
+	float:right;
+}
+.report
+{
+	background-color:pink;
+	width:95%;
+	height:35%;
+	float:center;
+	margin:5px;
+	overflow-y:auto;
+}
+.loginnew
+{
+	margin:10px;
+	background-color:#669966;
+	width:45%;
+	height:auto;
+	float:center;
+}
+
+.sideleft
+{
+	margin:10px;
+	background-color:#bbb;
+	width:45%;
+	height:auto;
+	float:left;
+}
+.sideright
+{
+	margin:10px;
+	background-color:#000000;
+	width:45%;
+	height:auto;
+	float:right;
+}

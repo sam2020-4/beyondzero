@@ -1,0 +1,39 @@
+
+*
+{
+	margin:2px;
+	padding:0px;
+}
+.cont ul{
+list-style:none 
+}
+.cont ul li{
+background-color:red;
+width:210px;
+border:1px solid white;
+height:50px;
+line-height:50px;
+float:vertical-align;
+text-align:center;
+position:relative;
+}
+.cont ul li: a
+{
+	text-decoration:none;
+	color:white
+	display:block;
+}
+.cont ul li:hover
+{
+background-color:green;
+}
+.cont ul ul
+{
+	position:absolute;
+	display:none;
+}
+.cont ul li:hover > ul
+{
+display:block;
+}
+

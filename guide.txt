@@ -1,0 +1,12 @@
+/* Developed by matata samuel *\
+
+Welcome to Beyond zero Campaign Management System
+
+db: bzdb
+
+Managenet access login:
+
+username:	admin1
+password:	b2018
+
+For you to access the system, you have to register as a member/client.
